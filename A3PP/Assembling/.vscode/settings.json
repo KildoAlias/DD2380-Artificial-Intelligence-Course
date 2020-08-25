@@ -1,0 +1,4 @@
+{
+    "pddlParser.executableOrService": "val/Val-20190911.1-Linux/bin/Parser",
+    "pddlParser.executableOptions": "$(parser) $(domain) $(problem)"
+}
